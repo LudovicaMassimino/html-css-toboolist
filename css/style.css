@@ -63,6 +63,8 @@ body {
     border-color: rgb(0, 162, 255);
 }
 
+/* lista */
+
 .first-title{
     margin-top: 15px;
 }
@@ -85,7 +87,7 @@ body {
 
 .playlist-item .checkmark {
     color: green;
-    border-color: green;
+    border: 1px solid green;
     background-color: rgb(174, 230, 174);
     text-align: center;
     line-height: 30px;
@@ -95,7 +97,7 @@ body {
 
 .playlist-item .cross {
     color: red;
-    border-color: red;
+    border: 1px solid red;
     background-color: rgb(243, 200, 209);
     text-align: center;
     line-height: 30px;
